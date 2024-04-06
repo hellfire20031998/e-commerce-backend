@@ -1,7 +1,7 @@
 const express = require("express");
 const app = express();
 const port= 3002;
-const productRoute=require("./routes_product");
+const productRoute=require("./src/product/routes_product");
 // const router = require("../Student/routes");
 
 
